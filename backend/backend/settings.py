@@ -10,7 +10,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '89.169.171.199',
-    'myhostnamefortaskii.zapto.org',
+    'servisinjenerovitch.ru',
     'localhost',
     '127.0.0.1',
 ]
